@@ -7,7 +7,7 @@ import winsound
 ipy = get_ipython()
 
 this_dir, this_filename = os.path.split(__file__)
-WAVE_PATH = os.path.join(this_dir, 'Startup1.wav')
+WAVE_PATH = os.path.join(this_dir, 'JobsDone.wav')
 
 
 @magics_class

@@ -30,8 +30,10 @@ would be very welcome.
 
 ## Configuring your sound!
 
-The default sound is an old Mac startup sound similar to
-[this](https://www.youtube.com/watch?v=i9qOJqNjalE). However, you can point it
-at any WAV file you want by adding your file to the `srun` directory, changing
-the filename in the code, and re-installing. You can also use system beeps
-instead of a WAV. (NOTE: ConEmu and CMDer suppress system beeps by default.)
+The default sound is a voice saying "Job's Done!" An alternate sound included
+with the package is an old Mac startup sound similar to
+[this](https://www.youtube.com/watch?v=i9qOJqNjalE). However, you can point
+`%srun` at any WAV file you want by adding your file to the `srun` directory,
+changing the filename in the code, and re-installing. You can also use system
+beeps instead of a WAV. (NOTE: ConEmu and CMDer suppress system beeps by
+default.)
